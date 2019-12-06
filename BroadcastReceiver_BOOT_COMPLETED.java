@@ -13,7 +13,7 @@
 	</receiver>
 </application>
 
-// Create a new class file and paste the following code
+// Create a new class file and padddste the following code
 public class MyBroadcastReceiver extends BroadcastReceiver {
 
 	@Override
