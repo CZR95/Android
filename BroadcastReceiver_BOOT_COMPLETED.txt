@@ -3,7 +3,7 @@
 <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 
 <application>
-	...
+	....
 	
 	<receiver android:name=".MyBroadcastReceiver" // This is name must matched with the created class name
 		android:exported="true">
